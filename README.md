@@ -17,7 +17,9 @@
 <p><img src="https://sayolab.tokyo:1500/logo.png" alt="SayoLab">&ensp;&ensp;<img src="https://sayolab.tokyo:1500/sayoforum/template/wekei_free_acg_01/images/logo.png" alt="SayoLab Forum">
 <p><img src="https://sayolab.tokyo:1500/labwiki/lib/exe/fetch.php?media=wiki:logo.png" alt="SayoLab Forum">
 <br>
-<a href="https://sayolab.tokyo:1500">SayoLab Technology</a>
+<a href="https://sayolab.tokyo:1500">SayoLab Technology</a> 
+<br>
+<strong>站长</strong>
 <br>
 <strong>2021 - 2024</strong>
 <br>
