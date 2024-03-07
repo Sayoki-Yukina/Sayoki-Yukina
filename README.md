@@ -35,10 +35,12 @@
 <a href="#"><img src="https://img.shields.io/badge/AlmaLinux-0095D5?style=for-the-badge&amp;logo=almalinux&amp;logoColor=white&amp;labelColor=101010" alt="Alma Linux"></a>
 <h4 id="programming-languages">Programming Languages 编程语言</h4>
 <p><a href="#"><img src="https://img.shields.io/badge/Haskell-3DDC84?style=for-the-badge&amp;logo=haskell&amp;logoColor=white&amp;labelColor=101010" alt="Haskell"></a>
+<a href="#"><img src="https://img.shields.io/badge/Assembly-3DDC84?style=for-the-badge&amp;logo=assemblyscript&amp;logoColor=white&amp;labelColor=101010" alt="Assembly"></a>
 <a href="#"><img src="https://img.shields.io/badge/C++-0095D5?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white&amp;labelColor=101010" alt="C++"></a>
 <a href="#"><img src="https://img.shields.io/badge/Lua-0095D5?style=for-the-badge&amp;logo=lua&amp;logoColor=white&amp;labelColor=101010" alt="Lua"></a>
 <br>
-<a href="#"><img src="https://img.shields.io/badge/BASH%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
+<a href="#"><img src="https://img.shields.io/badge/Bash%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Batch%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=windowsterminal&amp;logoColor=white" alt="Batch"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ruby-007396?style=for-the-badge&amp;logo=ruby&amp;logoColor=white&amp;labelColor=101010" alt="Ruby"></a>
 <a href="#"><img src="https://img.shields.io/badge/YAML-F7DF1E?style=for-the-badge&amp;logo=yaml&amp;logoColor=white&amp;labelColor=101010" alt="YAML"></a>
 <br>
