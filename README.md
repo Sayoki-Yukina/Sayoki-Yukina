@@ -14,10 +14,10 @@
 <li><a href="https://SayokiYukina.t.me"><img src="https://img.shields.io/badge/telegram-3DDC84?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&amp;labelColor=101010" alt="Telegram"></a></li>
 </ul>
 <h2 id="experience">Experience 经验:</h2>
-<p><img src="https://sayolab.tokyo:1500/logo.png" alt="SayoLab">&ensp;&ensp;<img src="https://sayolab.tokyo:1500/sayoforum/template/wekei_free_acg_01/images/logo.png" alt="SayoLab Forum">
-<p><img src="https://sayolab.tokyo:1500/labwiki/lib/exe/fetch.php?media=wiki:logo.png" alt="SayoLab Forum">
+<p><img src="https://sayolab.uk:1500/logo.png" alt="SayoLab">&ensp;&ensp;<img src="https://sayolab.uk:1500/sayoforum/template/wekei_free_acg_01/images/logo.png" alt="SayoLab Forum">
+<p><img src="https://sayolab.uk:1500/labwiki/lib/exe/fetch.php?media=wiki:logo.png" alt="SayoLab Forum">
 <br>
-<a href="https://sayolab.tokyo:1500">SayoLab Technology</a> 
+<a href="https://sayolab.uk:1500">SayoLab Technology</a> 
 <br>
 <strong>站长</strong>
 <br>
